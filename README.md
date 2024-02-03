@@ -1,0 +1,2 @@
+# ConnectHub-Frontend-Mobile
+The frontend mobile repository for Connect Hub, a social media application inspired by Twitter and Facebook. This repository contains the codebase for the mobile application, developed using the React-Native framework. It provides users with a seamless mobile experience for accessing Connect Hub on their smartphones and tablets.
