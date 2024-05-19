@@ -1,8 +1,8 @@
+# ConnectHub [Frontend-Mobile]
 <img src="./assets/connecthub-logo.png" height="300"/>
 <br>
 
 
-## `ConnectHub`-Frontend-Mobile
 
 <br>
 
